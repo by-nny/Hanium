@@ -1,5 +1,7 @@
 ## 🚙 한이음 IoT 기반 스마트 공유 주차 관리 시스템
 ### 프로젝트 소개
+### 동영상 링크
+  - https://youtu.be/Pgvdqtvk6OA
 ### 팀원 및 업무분장
   - 김보연: OpenCV, R, AWS S3, Web CSS
   - 김은서: AWS EC2, manager web, DB 
