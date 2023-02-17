@@ -9,9 +9,9 @@
 ### 동영상 링크
   - https://youtu.be/Pgvdqtvk6OA
 ### 팀원 및 업무분장
-  - 김보연: OpenCV, R, AWS S3, Web, CSS
+  - 김보연: OpenCV, R, AWS S3, Web CSS
   - 김은서: AWS EC2, manager web, DB 
-  - 이소윤: OpenCV, R , AWS S3 , Web, CSS
+  - 이소윤: OpenCV, R , AWS S3 , Web CSS
   - 홍민아: AWS EC2, User Web
 ### 개발배경 및 필요성
 - 개발배경
